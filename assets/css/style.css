@@ -100,3 +100,16 @@ h1, p {
 .after-nav-p {
     padding-top: 0.5rem
 }
+
+.easter {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-family: 'Segoe UI', sans-serif;
+    text-decoration: none;
+}
+
+.REMOVE-ME {
+    display: none;
+}
